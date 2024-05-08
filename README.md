@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohammadullah Alkafi</h1>
 <h3 align="center">Senior full-stack web application developer</h3>
-- 🌱 I’m currently learning **Artificial Intelligence**
-- 💬 Ask me about **PHP, Laravel, Drupal, React, Vue**
-- 📫 How to reach me **m.u.kafi@gmail.com**
+<ul>
+  <li>
+    🌱 I’m currently learning **Artificial Intelligence
+  </li>
+  <li>
+    💬 Ask me about **PHP, Laravel, Drupal, React, Vue
+  </li>
+  <li>
+    📫 How to reach me **m.u.kafi@gmail.com
+  </li>
+</ul>
 
 <div> <a href="https://www.linkedin.com/in/mukafi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/mkafi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
