@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mohammadullah Alkafi</h1>
-<h3 align="center">Senior full-stack web application developer</h3>
+<h1 align="left">Hi 👋, I'm Mohammadullah Alkafi</h1>
+<h3 align="left">Senior full-stack web application developer</h3>
 <ul>
   <li>
-    🌱 I’m currently learning **Artificial Intelligence
+    🌱 I’m currently learning Artificial Intelligence
   </li>
   <li>
-    💬 Ask me about **PHP, Laravel, Drupal, React, Vue
+    💬 Ask me about PHP, Laravel, Drupal, React, Vue
   </li>
   <li>
-    📫 How to reach me **m.u.kafi@gmail.com
+    📫 How to reach me m.u.kafi@gmail.com
   </li>
 </ul>
 
